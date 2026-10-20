@@ -2,7 +2,7 @@
 
 Data and code for the article:
 
-> Siagian, W. O., & [Co-author]. (2026). Composite Vulnerability Index of Villages with Oil Palm on Peatland in Indonesia in 2021: Integrating Remote Sensing and Village Development Index Data. *Jurnal Ilmiah Membangun Desa dan Pertanian (JIMDP)*. [DOI to be added]
+> Siagian, W. O., & Putri, K. (2026). Composite Vulnerability Index of Villages with Oil Palm on Peatland in Indonesia in 2021: Integrating Remote Sensing and Village Development Index Data. *Jurnal Ilmiah Membangun Desa dan Pertanian (JIMDP)*. [DOI to be added]
 
 The study builds a Composite Vulnerability Index (CVI) for 901 Indonesian villages whose territory contained oil palm on peatland in 2021. It uses an Exposure–Sensitivity–Adaptive Capacity framework. Exposure is the share of village area under oil palm on peat, from remote sensing over Ina-Geoportal village boundaries. Sensitivity and Adaptive Capacity come from the 2021 Village Development Index (Indeks Desa Membangun, IDM). The repository contains the village-level results and all code used to produce the tables and figures.
 
@@ -104,4 +104,4 @@ Every script prints the numbers it produces and writes CSV tables. Jenks classif
 
 ## Contact
 
-Willy Onesimus Siagian, Graduate School of Innovation and Practice for Smart Society, Hiroshima University. [email]
+Willy Onesimus Siagian, Urban and Regional Planning Master Programme Diponegoro University. [willy.onesian@gmail.com]
