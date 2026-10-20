@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the article and this repository."
+title: "Composite Vulnerability Index of Villages with Oil Palm on Peatland in Indonesia, 2021: data and code"
+authors:
+  - family-names: Siagian
+    given-names: Willy Onesimus
+    affiliation: "Graduate School of Innovation and Practice for Smart Society, Hiroshima University"
+  # - family-names: [Co-author family name]
+  #   given-names: [Co-author given names]
+version: 1.0.0
+date-released: 2026-10-20
+license: MIT
+repository-code: "https://github.com/[username]/cvi-peatland-oilpalm-2021"
+keywords:
+  - composite vulnerability index
+  - oil palm
+  - peatland
+  - Indonesia
+  - village development index
